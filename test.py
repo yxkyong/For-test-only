@@ -1,4 +1,9 @@
-# Tests.py
+def test():
+	assert 1+1==2
+
+
+
+'''# Tests.py
 
 def test_een():
 	# Test of een plus een twee is
@@ -26,3 +31,4 @@ from nose.tools import *
 def test_vijf():
 	# Deze test hoort een ZeroDivisionError te gooien
 	0/0
+'''
