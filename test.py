@@ -25,4 +25,4 @@ from nose.tools import *
 @raises(ZeroDivisionError) #
 def test_vijf():
 	# Deze test hoort een ZeroDivisionError te gooien
-	0/1
+	0/0
